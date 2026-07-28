@@ -56,10 +56,6 @@ This project helped me strengthen my understanding of:
 - CSS Flexbox
 - Responsive Web Design
 
-## 📸 Screenshot
-
-_Add a screenshot of your project here._
-
 ## 🔮 Future Improvements
 
 - 🔊 Sound effects
